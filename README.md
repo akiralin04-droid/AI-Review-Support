@@ -27,11 +27,15 @@ AIがレビュー文章の作成をサポートするSNS型レビューサイト
 後ほど作成予定
 
 ## 開発環境
-- OS：Windows
+- OS：Linux (AWS Cloud9) / Windows
 - 言語：HTML,CSS,JavaScript,Ruby,SQL
 - フレームワーク：Ruby on Rails
 - JSライブラリ：jQuery
 - IDE：Visual Studio Code（VSCode）
+- 外部API：OpenAI API（ChatGPT）
+- フレームワーク：Ruby on Rails 8.0
+
+
 
 ## 使用素材
 著作権を考慮し、架空のデータを扱う予定です。  
